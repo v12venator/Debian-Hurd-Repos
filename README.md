@@ -13,4 +13,4 @@ It is advised that you first pull your packages from the Snapshot repo, then onc
 
 I have included the Snapshot, Unreleased, Unstable, and Experimental urls that I could find from the mailing list.
 
-# Please be advised that I have added [trusted=yes] to all repos to skip the gpg check of packages. If you are concerned with the integrity of your packages, you can remove this string from your sources.list to ensure you are receiving checked and signed packages.
+# Please be advised that I have added [trusted=yes] to all repos to skip the gpg check of packages. If you are concerned with the integrity of your packages, you can remove this string from your sources.list repos to ensure you are receiving checked and signed packages.
