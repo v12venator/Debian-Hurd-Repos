@@ -1,8 +1,8 @@
 #Aptitude and apt-get sources for Debian GNU/Hurd
 
 #Snapshot
-deb [trusted=yes] http://snapshot.debian.org/archive/debian/20170612T094249Z/ sid main
-deb-src [trusted=yes] http://snapshot.debian.org/archive/debian/20170612T094249Z/ sid main
+deb [trusted=yes] http://snapshot.debian.org/archive/debian-ports/20210812T100000Z/ sid main
+deb-src [trusted=yes] http://snapshot.debian.org/archive/debian/20210812T100000Z/ sid main
 
 #Unstable
 #deb [trusted=yes] http://deb.debian.org/debian-ports sid main
